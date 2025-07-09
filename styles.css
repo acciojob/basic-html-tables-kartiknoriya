@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+table{   width:70%;
+	     border: solid black 2px;
+	     border-collapse: collapse;
+}
+th{
+	 border: 2px solid black;
+}
+td{
+	 border: 2px solid black;
+}
